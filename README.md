@@ -28,7 +28,7 @@ The main goal was to design a Power BI dashboard that:
 
 ## 🔗 Live Dashboard Link
 
-👉 [View the Power BI Dashboard]https://app.powerbi.com/singleSignOn?experience=power-bi&ru=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2Feb4cd8cc-ada5-4711-966f-dbc500a7459a%2FReportSection%3Fexperience%3Dpower-bi%26noSignUpCheck%3D1
+👉 [View the Power BI Dashboard]https://app.powerbi.com/groups/me/reports/eb4cd8cc-ada5-4711-966f-dbc500a7459a/ReportSection?experience=power-bi
 ---
 
 ## 🧠 Tasks Completed
